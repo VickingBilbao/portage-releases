@@ -1,11 +1,11 @@
 {
-  "version": "0.9.0",
-  "notes": "Portage 0.9.0 \u2014 first public beta. Apple-notarized. Dark redesign, official brand, 69 providers, guided tour, live tray/dock activity, beta feedback box.",
-  "pub_date": "2026-06-12T18:10:00Z",
+  "version": "0.9.1",
+  "notes": "Honest cross-cloud verification + deep verify (byte-for-byte).",
+  "pub_date": "2026-06-12T21:05:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3paaSt2cmtWWGxTbUpiSWNLMXpQQVc2L01zSEZmbWtwY0xNSUR2OWgzZGp4TVZmNEhhOG80SmsyWG94d2xMaFVaTWVFMTJ5cjJRS2NPUU1yNWtNQnE3K1h0Ym1od1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjg3NTE0CWZpbGU6UG9ydGFnZS5hcHAudGFyLmd6Cng2M3Ewa3owZ05BYWRHZzN5aUhPMjZiN25jdWVvZWIxK2p1OE9mZnRCN01WWVpyTTlQUFJ6ZEdvRkgvY0VJdGhPMmtvNlZKTVAvc2V3SFRPdUNFVUNRPT0K",
-      "url": "https://github.com/VickingBilbao/portage-releases/releases/download/v0.9.0/Portage.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3paaSt2cmtWWGhSWmJoMk15Zmh1YWREZDN0R3NIbGlLdHhVeC9kZXh2Nk1TRjBUR1B4dWlvL2J6NTNVYjVUa3QrMzNWd2pUQ2dKMVl0NFY0dmRmWk81S2k4QXpUeVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjk3Nzc2CWZpbGU6UG9ydGFnZS5hcHAudGFyLmd6CmgxSUMxdENIclk1dWxnZktkMDZEYWh5T3MwYlhkaFJtQnkrT3NOSStYTVByZmpLRkZpNWNkWDJGZjN0T1F1WVZHMzNZbW5RMFhBcGtrdURsaFVUREFBPT0K",
+      "url": "https://github.com/VickingBilbao/portage-releases/releases/download/v0.9.1/Portage.app.tar.gz"
     }
   }
 }
