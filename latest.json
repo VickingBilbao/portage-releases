@@ -1,11 +1,11 @@
 {
-  "version": "0.9.1",
-  "notes": "Honest cross-cloud verification + deep verify (byte-for-byte).",
-  "pub_date": "2026-06-12T21:05:00Z",
+  "version": "0.9.3",
+  "notes": "One-shot verified transfers from the home screen + ASC-MHL manifests for completed transfers.",
+  "pub_date": "2026-06-15T14:22:09Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3paaSt2cmtWWGhSWmJoMk15Zmh1YWREZDN0R3NIbGlLdHhVeC9kZXh2Nk1TRjBUR1B4dWlvL2J6NTNVYjVUa3QrMzNWd2pUQ2dKMVl0NFY0dmRmWk81S2k4QXpUeVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjk3Nzc2CWZpbGU6UG9ydGFnZS5hcHAudGFyLmd6CmgxSUMxdENIclk1dWxnZktkMDZEYWh5T3MwYlhkaFJtQnkrT3NOSStYTVByZmpLRkZpNWNkWDJGZjN0T1F1WVZHMzNZbW5RMFhBcGtrdURsaFVUREFBPT0K",
-      "url": "https://github.com/VickingBilbao/portage-releases/releases/download/v0.9.1/Portage.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3paaSt2cmtWWHJBaU1qeDRlMHJmRm1yRjl0MllSb0d3bmV5Vk5IYWN6ZWNCRXZFamUwTHVaVzA2RWVCOFdtNTE5ZUVzVkRzWFdWNVJ0bnRoRlFLMldTTzhxRk5XSlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNTMyOTk5CWZpbGU6UG9ydGFnZS5hcHAudGFyLmd6CjR5OUdVNENSN3JKNVlwNlpKWW9FaW5lVjVRY3NESHBFMnd1TDc4ZDhkOS9oNnl3L1U3MmpOSTRQRE9MbmpEY2ptenFOVmpmNmE1VWZ5cTVxNEhQMkN3PT0K",
+      "url": "https://github.com/VickingBilbao/portage-releases/releases/download/v0.9.3/Portage.app.tar.gz"
     }
   }
 }
