@@ -1,11 +1,11 @@
 {
-  "version": "0.9.4",
-  "notes": "Portage 0.9.4 (beta) \u2014 one-shot verified transfer, ASC-MHL manifests, AI/MCP access, and the private-beta access gate.",
-  "pub_date": "2026-06-15T18:48:55Z",
+  "version": "0.9.5",
+  "notes": "Portage 0.9.5 (beta) — correções no Peer Share (lista, pasta vazia, endereços) e nova tela de Conta.",
+  "pub_date": "2026-06-16T20:25:33Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3paaSt2cmtWWHArV204dXMwdWhMSXVqM3dOTjVkVlU4UEVONU4xZW0zUFdhV3JIK25zYWVEcmQzVm5YellnSjZJVndDblFqK1YvSlF0RVJnRHdIbVJSa3hIRSsyVkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNTQ4NTc4CWZpbGU6UG9ydGFnZS5hcHAudGFyLmd6ClpLQ0Y3M0lESG42OXlwREV3VWQzVVBTOGY4dXh2bDA3RnZHZXVuajV1L2VHVHFNK0hXaE1DdmJLSmZQeG5EUjhvL3B5OHFza29aUTV0RFdDT3N3WERRPT0K",
-      "url": "https://github.com/VickingBilbao/portage-releases/releases/download/v0.9.4/Portage.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3paaSt2cmtWWGtGR0VrT0hTT2pjeThIai9HOHdheVljbEpPdFBCaW52Ly9rd1c0UGxKWXMwTS9aTUM4bkJYYzRJR2FRZ1AwYUNOd2toR082T3JFOXpLUGRhQW5ZSEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjQxMjg2CWZpbGU6UG9ydGFnZS5hcHAudGFyLmd6CnE5U3dISm5KV1JCN1EwMGxDY0ZnQU1yTlFRbnlJMDZMdWs1RFhXS3FHVXRvSkN2MHdPRlJiZ1JjT2tDUDNQeU53TWR1YmZmMmRjUlIvVjVtRll2d0NRPT0K",
+      "url": "https://github.com/VickingBilbao/portage-releases/releases/download/v0.9.5/Portage.app.tar.gz"
     }
   }
 }
