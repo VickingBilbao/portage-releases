@@ -1,11 +1,11 @@
 {
-  "version": "0.9.5",
-  "notes": "Portage 0.9.5 (beta) — correções no Peer Share (lista, pasta vazia, endereços) e nova tela de Conta.",
-  "pub_date": "2026-06-16T20:25:33Z",
+  "version": "0.9.6",
+  "notes": "Portage 0.9.6 (beta) — Pastas sincronizadas (Phase 1), montar remote como disco, editar/atualizar remotes, URL direto pra remote, e Google Drive pelo app do Portage.",
+  "pub_date": "2026-06-17T14:47:09Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3paaSt2cmtWWGtGR0VrT0hTT2pjeThIai9HOHdheVljbEpPdFBCaW52Ly9rd1c0UGxKWXMwTS9aTUM4bkJYYzRJR2FRZ1AwYUNOd2toR082T3JFOXpLUGRhQW5ZSEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNjQxMjg2CWZpbGU6UG9ydGFnZS5hcHAudGFyLmd6CnE5U3dISm5KV1JCN1EwMGxDY0ZnQU1yTlFRbnlJMDZMdWs1RFhXS3FHVXRvSkN2MHdPRlJiZ1JjT2tDUDNQeU53TWR1YmZmMmRjUlIvVjVtRll2d0NRPT0K",
-      "url": "https://github.com/VickingBilbao/portage-releases/releases/download/v0.9.5/Portage.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3paaSt2cmtWWG5KWGdYNE9qb1Q3aGF3WEVrRGsxMFIrWVVQUk5IamU3aFZ1Qi9yeVlQTk9PM0FIbWxtQ3VxYzVSVVJ4SmN2VFBKZnAvUGkrbWtZR2JmYm0yYkp3NndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzA3NTM4CWZpbGU6UG9ydGFnZS5hcHAudGFyLmd6CmNLdmVxRHN5WHBDd1RFNnRDUEYwUlBId0dyTkhHWFVxVFJrMVZvNy9vSXVPdnczQmh6NGZhSGw2OGJIaGJTTXFudi91d29iZHU1RFg3Y0JncFAzZ0FnPT0K",
+      "url": "https://github.com/VickingBilbao/portage-releases/releases/download/v0.9.6/Portage.app.tar.gz"
     }
   }
 }
