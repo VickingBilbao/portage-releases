@@ -1,11 +1,11 @@
 {
-  "version": "0.9.8",
-  "notes": "Portage 0.9.8 (beta) — encontrar arquivos duplicados, busca dentro do remote, visualização em colunas, preview mais nítido e rápido (fotos em alta resolução + pré-aquecimento do remote ao selecionar) e conferência de espaço ao baixar pastas (para sozinho antes de encher o disco).",
-  "pub_date": "2026-06-20T05:13:01Z",
+  "version": "0.9.13",
+  "notes": "Portage 0.9.13 (beta) — arquivos grandes agora retomam do byte exato (Dropbox + Drive: pausar ou fechar o app e continuar de onde parou); pause/resume de transferências, índice em segundo plano (buscas e duplicatas instantâneas), duplicatas por tipo, avisos no celular e modo dois painéis.",
+  "pub_date": "2026-06-25T13:40:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3paaSt2cmtWWGp1TkxTUDRpdXYrZ1VlUlpzVnlkelE2dFB0UUdjZ3NhUkcvZHJBRFg0STZLQk5UZjZyeHFyd2gydTZNZkY2RFlTby9ocFJFYWkrNDdtbmFYcDMrdndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxOTMyMTY3CWZpbGU6UG9ydGFnZS5hcHAudGFyLmd6CjdyOTBxc290cDVBcjhISjNpWkZaNWd6eTVUdUk3WGxEUmpjYXRIbVdPMm9ta3FTZjFGb2p6MEptNGR5SkMxbzBHY1FqbFRKTWFQajVRSGpyT1NLN0NnPT0K",
-      "url": "https://github.com/VickingBilbao/portage-releases/releases/download/v0.9.8/Portage.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTT3paaSt2cmtWWGpJc0JYRVBMZkkvMlFRMnJla1ByYkVJUm5ROVEzYmhhM3JxWElpeVRSYnNEQXYzUjFZQ0JHVlFIKzdCTStUbU5FOWcwTGw0eGRxSDgvSEhpWWtNMGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzk0NzYxCWZpbGU6UG9ydGFnZS5hcHAudGFyLmd6Cm9RUGpSZHF2TUt5STFST0F1bFZHWkh6YXUxcmNOMHd6ZktqMzBDbDNMdHNQNDNyRDRzeUJsOGswWnJPZFRuZjB0Y2ZvMzBUdXdWcXlxMDJZdldBQ0FRPT0K",
+      "url": "https://github.com/VickingBilbao/portage-releases/releases/download/v0.9.13/Portage.app.tar.gz"
     }
   }
 }
